@@ -1,0 +1,541 @@
+[
+	{
+		"created_at": "03-03-2020",
+		"tested": "108",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "04-03-2020",
+		"tested": "3",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "05-03-2020",
+		"tested": "0",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "06-03-2020",
+		"tested": "9",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "08-03-2020",
+		"tested": "7",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "09-03-2020",
+		"tested": "10",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "10-03-2020",
+		"tested": "10",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "11-03-2020",
+		"tested": "16",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "12-03-2020",
+		"tested": "24",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "13-03-2020",
+		"tested": "24",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "14-03-2020",
+		"tested": "30",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "15-03-2020",
+		"tested": "27",
+		"confirmed": "2",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "16-03-2020",
+		"tested": "25",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "17-03-2020",
+		"tested": "49",
+		"confirmed": "2",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "18-03-2020",
+		"tested": "39",
+		"confirmed": "4",
+		"recovered": "0",
+		"deaths": "1"
+	},
+	{
+		"created_at": "19-03-2020",
+		"tested": "46",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "20-03-2020",
+		"tested": "36",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "21-03-2020",
+		"tested": "36",
+		"confirmed": "4",
+		"recovered": "3",
+		"deaths": "1"
+	},
+	{
+		"created_at": "22-03-2020",
+		"tested": "65",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "23-03-2020",
+		"tested": "56",
+		"confirmed": "6",
+		"recovered": "0",
+		"deaths": "1"
+	},
+	{
+		"created_at": "24-03-2020",
+		"tested": "92",
+		"confirmed": "6",
+		"recovered": "1",
+		"deaths": "1"
+	},
+	{
+		"created_at": "25-03-2020",
+		"tested": "82",
+		"confirmed": "0",
+		"recovered": "1",
+		"deaths": "1"
+	},
+	{
+		"created_at": "26-03-2020",
+		"tested": "126",
+		"confirmed": "5",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "27-03-2020",
+		"tested": "106",
+		"confirmed": "4",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "28-03-2020",
+		"tested": "50",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "29-03-2020",
+		"tested": "109",
+		"confirmed": "0",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "30-03-2020",
+		"tested": "153",
+		"confirmed": "1",
+		"recovered": "10",
+		"deaths": "0"
+	},
+	{
+		"created_at": "30-03-2020",
+		"tested": "264",
+		"confirmed": "2",
+		"recovered": "10",
+		"deaths": "0"
+	},
+	{
+		"created_at": "31-03-2020",
+		"tested": "157",
+		"confirmed": "3",
+		"recovered": "0",
+		"deaths": "1"
+	},
+	{
+		"created_at": "01-04-2020",
+		"tested": "147",
+		"confirmed": "2",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "02-04-2020",
+		"tested": "207",
+		"confirmed": "5",
+		"recovered": "0",
+		"deaths": "0"
+	},
+	{
+		"created_at": "03-04-2020",
+		"tested": "434",
+		"confirmed": "9",
+		"recovered": "5",
+		"deaths": "2"
+	},
+	{
+		"created_at": "04-04-2020",
+		"tested": "367",
+		"confirmed": "18",
+		"recovered": "3",
+		"deaths": "1"
+	},
+	{
+		"created_at": "05-04-2020",
+		"tested": "696",
+		"confirmed": "35",
+		"recovered": "0",
+		"deaths": "3"
+	},
+	{
+		"created_at": "06-04-2020",
+		"tested": "792",
+		"confirmed": "41",
+		"recovered": "0",
+		"deaths": "5"
+	},
+	{
+		"created_at": "07-04-2020",
+		"tested": "981",
+		"confirmed": "54",
+		"recovered": "0",
+		"deaths": "3"
+	},
+	{
+		"created_at": "08-04-2020",
+		"tested": "1097",
+		"confirmed": "112",
+		"recovered": "0",
+		"deaths": "1"
+	},
+	{
+		"created_at": "10-04-2020",
+		"tested": "1184",
+		"confirmed": "94",
+		"recovered": "0",
+		"deaths": "6"
+	},
+	{
+		"created_at": "11-04-2020",
+		"tested": "649",
+		"confirmed": "58",
+		"recovered": "3",
+		"deaths": "3"
+	},
+	{
+		"created_at": "12-04-2020",
+		"tested": "1340",
+		"confirmed": "139",
+		"recovered": "3",
+		"deaths": "4"
+	},
+	{
+		"created_at": "13-04-2020",
+		"tested": "1570",
+		"confirmed": "182",
+		"recovered": "3",
+		"deaths": "5"
+	},
+	{
+		"created_at": "14-04-2020",
+		"tested": "1905",
+		"confirmed": "209",
+		"recovered": "0",
+		"deaths": "7"
+	},
+	{
+		"created_at": "15-04-2020",
+		"tested": "1740",
+		"confirmed": "219",
+		"recovered": "7",
+		"deaths": "4"
+	},
+	{
+		"created_at": "16-04-2020",
+		"tested": "2135",
+		"confirmed": "341",
+		"recovered": "0",
+		"deaths": "10"
+	},
+	{
+		"created_at": "17-04-2020",
+		"tested": "2190",
+		"confirmed": "266",
+		"recovered": "9",
+		"deaths": "15"
+	},
+	{
+		"created_at": "18-04-2020",
+		"tested": "2114",
+		"confirmed": "306",
+		"recovered": "8",
+		"deaths": "9"
+	},
+	{
+		"created_at": "19-04-2020",
+		"tested": "2634",
+		"confirmed": "312",
+		"recovered": "9",
+		"deaths": "7"
+	},
+	{
+		"created_at": "20-04-2020",
+		"tested": "2663",
+		"confirmed": "492",
+		"recovered": "10",
+		"deaths": "10"
+	},
+	{
+		"created_at": "21-04-2020",
+		"tested": "2974",
+		"confirmed": "434",
+		"recovered": "2",
+		"deaths": "9"
+	},
+	{
+		"created_at": "21-04-2020",
+		"tested": "3096",
+		"confirmed": "390",
+		"recovered": "5",
+		"deaths": "10"
+	},
+	{
+		"created_at": "22-04-2020",
+		"tested": "3416",
+		"confirmed": "414",
+		"recovered": "16",
+		"deaths": "7"
+	},
+	{
+		"created_at": "23-04-2020",
+		"tested": "3686",
+		"confirmed": "503",
+		"recovered": "4",
+		"deaths": "4"
+	},
+	{
+		"created_at": "24-04-2020",
+		"tested": "3337",
+		"confirmed": "309",
+		"recovered": "1",
+		"deaths": "9"
+	},
+	{
+		"created_at": "25-04-2020",
+		"tested": "3476",
+		"confirmed": "418",
+		"recovered": "9",
+		"deaths": "5"
+	},
+	{
+		"created_at": "26-04-2020",
+		"tested": "3812",
+		"confirmed": "497",
+		"recovered": "9",
+		"deaths": "7"
+	},
+	{
+		"created_at": "27-04-2020",
+		"tested": "4332",
+		"confirmed": "549",
+		"recovered": "8",
+		"deaths": "3"
+	},
+	{
+		"created_at": "28-04-2020",
+		"tested": "4968",
+		"confirmed": "641",
+		"recovered": "11",
+		"deaths": "8"
+	},
+	{
+		"created_at": "29-04-2020",
+		"tested": "4965",
+		"confirmed": "564",
+		"recovered": "10",
+		"deaths": "5"
+	},
+	{
+		"created_at": "30-04-2020",
+		"tested": "5573",
+		"confirmed": "571",
+		"recovered": "14",
+		"deaths": "2"
+	},
+	{
+		"created_at": "01-05-2020",
+		"tested": "5827",
+		"confirmed": "552",
+		"recovered": "3",
+		"deaths": "5"
+	},
+	{
+		"created_at": "02-05-2020",
+		"tested": "5368",
+		"confirmed": "665",
+		"recovered": "886",
+		"deaths": "2"
+	},
+	{
+		"created_at": "03-05-2020",
+		"tested": "6260",
+		"confirmed": "688",
+		"recovered": "147",
+		"deaths": "5"
+	},
+	{
+		"created_at": "04-05-2020",
+		"tested": "5711",
+		"confirmed": "786",
+		"recovered": "193",
+		"deaths": "1"
+	},
+	{
+		"created_at": "05-05-2020",
+		"tested": "6241",
+		"confirmed": "790",
+		"recovered": "377",
+		"deaths": "3"
+	},
+	{
+		"created_at": "06-05-2020",
+		"tested": "5867",
+		"confirmed": "706",
+		"recovered": "130",
+		"deaths": "13"
+	},
+	{
+		"created_at": "07-05-2020",
+		"tested": "5941",
+		"confirmed": "709",
+		"recovered": "191",
+		"deaths": "7"
+	},
+	{
+		"created_at": "08-05-2020",
+		"tested": "5465",
+		"confirmed": "636",
+		"recovered": "313",
+		"deaths": "8"
+	},
+	{
+		"created_at": "09-05-2020",
+		"tested": "5738",
+		"confirmed": "887",
+		"recovered": "236",
+		"deaths": "14"
+	},
+	{
+		"created_at": "10-05-2020",
+		"tested": "7208",
+		"confirmed": "1034",
+		"recovered": "252",
+		"deaths": "11"
+	},
+	{
+		"created_at": "11-05-2020",
+		"tested": "6773",
+		"confirmed": "969",
+		"recovered": "245",
+		"deaths": "11"
+	},
+	{
+		"created_at": "12-05-2020",
+		"tested": "7900",
+		"confirmed": "1162",
+		"recovered": "214",
+		"deaths": "19"
+	},
+	{
+		"created_at": "13-05-2020",
+		"tested": "7392",
+		"confirmed": "1041",
+		"recovered": "242",
+		"deaths": "14"
+	},
+	{
+		"created_at": "14-05-2020",
+		"tested": "8582",
+		"confirmed": "1202",
+		"recovered": "279",
+		"deaths": "15"
+	},
+	{
+		"created_at": "16-05-2020",
+		"tested": "6782",
+		"confirmed": "930",
+		"recovered": "235",
+		"deaths": "16"
+	},
+	{
+		"created_at": "17-05-2020",
+		"tested": "8114",
+		"confirmed": "1273",
+		"recovered": "256",
+		"deaths": "14"
+	},
+	{
+		"created_at": "18-05-2020",
+		"tested": "9788",
+		"confirmed": "1602",
+		"recovered": "212",
+		"deaths": "21"
+	},
+	{
+		"created_at": "19-05-2020",
+		"tested": "8449",
+		"confirmed": "1251",
+		"recovered": "408",
+		"deaths": "21"
+	}
+]
